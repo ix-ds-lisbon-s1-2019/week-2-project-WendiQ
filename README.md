@@ -13,3 +13,13 @@ You have different options:
 * You can check the data visualization bonus class to find alternative plotting libraries. Each one has its own set of features (faster/slower, interactive/static, basic/complex)
 
 Be creative! Find a dataset that is inspiring to you and find a way to inspire other people by using data visualization techniques!
+
+------------------------------------------------------------------------------------------------
+# Feedback: 
+------------------------------------------------------------------------------------------------
+
+| Section | Mark | 
+|---|---| 
+| Total/100% | 100% | 
+
+Great work Wendi! Really cool dataset and visualisations, very robust and thoroughly thought out discussion/conclusions and great work referencing the code that you used :)
